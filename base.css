@@ -1,0 +1,49 @@
+/* Your baseline styles */
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+/* Baseline Font Sizes */
+html {
+    font-size: 1rem;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+
+/* Responsive Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Responsive typography */
+p {
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.17rem;
+}
+
+h4 {
+    font-size: 1rem;
+}
+
+h5 {
+    font-size: 0.83rem;
+}
+
+h6 {
+    font-size: 0.67rem;
+}
