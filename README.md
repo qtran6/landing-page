@@ -12,9 +12,8 @@ My DIY Landing Page with these features.
 * Secure, and scalable to many CDNs worldwide via Netlify, Vercel, etc.
 
 ## Sources
-* Cite.
-* Your. 
-* Sources.
+* Background Image:
+https://www.freepik.com/free-ai-image/beautiful-anime-sakura-landscape-cartoon-scene_94944914.htm#fromView=keyword&page=1&position=1&uuid=33dff543-3c96-4933-8d0c-99c94ce151c0
 
 ## Why Does This Exist? 
 Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.

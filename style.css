@@ -29,7 +29,8 @@ main {
   
   background-color: rgba(252, 235, 235, 0.8);
   border-radius: 20px;
-  
+  padding: 2em;
+
   /* centers container to page */
   margin-inline: auto;
   
