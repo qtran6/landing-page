@@ -14,7 +14,7 @@ html {
 
 /* Responsive Images */
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
 }
@@ -22,6 +22,10 @@ img {
 /* Responsive typography */
 p {
     font-size: 1rem;
+}
+
+a {
+    color: inherit;
 }
 
 h1 {
@@ -46,4 +50,15 @@ h5 {
 
 h6 {
     font-size: 0.67rem;
+}
+
+ul#myLinks {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul#myLinks li {
+    display: inline;
+    margin: 0 10px;
 }

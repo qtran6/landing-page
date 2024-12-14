@@ -3,7 +3,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(0, 127, 177);
+  background-color: rgb(148, 190, 207);
 }
 
 /* Background image */
@@ -15,20 +15,31 @@ body::before {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url('images/background-img.jpg');
+  background-image: url('images/anime-sakura.jpg');
   background-size: cover;
   background-position: center;
-  filter: blur(3px);
+  filter: blur(1px);
   opacity: 0.8;
 }
 
 /* Main Container */
 main {
   width: 100%;
+  margin-top: 7%;
+  
+  background-color: rgba(252, 235, 235, 0.8);
+  border-radius: 20px;
+  
   /* centers container to page */
   margin-inline: auto;
   
   /* adjust to your design */
-  max-width: 40em;
-}
+  max-width: 30em;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
+  
+}
